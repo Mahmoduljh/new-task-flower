@@ -147,3 +147,35 @@ header{
     margin-top: 40px;
 }
 /* featured part css end */
+
+/* advantage part css */
+
+#advantage{
+    margin-bottom: 128px;
+}
+.advantage-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+    background: rgba(22, 22, 22, 0.05);
+}
+
+.advantage-content{
+    padding: 80px 0px;
+    text-align: center;
+}
+
+.advantage-content .advantage-img{
+    width: 100px;
+    margin-bottom: 30px;
+}
+
+.advantage-content .advantage-description{
+    color: rgba(143, 27, 27, 0.8);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+/* end advantage part */
