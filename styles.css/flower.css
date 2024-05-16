@@ -224,3 +224,40 @@ header{
     width: 100%;
 }
 /* end insta part */
+/* insta-deal css part */
+
+.insta-deal{
+    background-image: url(../images/flower/Rectangle\ 9.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    padding: 120px 0;
+}
+
+.subscriber-form{
+    display: flex;
+    gap: 18px;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.subscriber-form input{
+    flex-grow: 1;
+    border: none;
+    padding: 22px 23px;
+    border-radius: 3px;
+    color: rgba(54, 54, 54, 0.6);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 8px;
+    background: #FFF;
+    transition: all 1s;
+}
+
+.subscriber-form input:hover{
+    outline: 1px solid crimson;
+}
+/* end insta-deal part */
