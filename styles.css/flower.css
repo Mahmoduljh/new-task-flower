@@ -152,6 +152,7 @@ header{
 
 #advantage{
     margin-bottom: 128px;
+    margin: 0 200px 128px 200px;
 }
 .advantage-container{
     display: flex;
@@ -179,3 +180,29 @@ header{
     line-height: 35px;
 }
 /* end advantage part */
+/* hot deal css part */
+#hot-deal{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.hot-deal-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.hot-deal-content{
+    margin-top: 50px;
+    text-align: center;
+}
+.customize-description{
+    margin-bottom: 30px;
+    color: rgb(2, 17, 17);
+}
+
+.hot-deal-container .hot-deal-img{
+    max-width: 100%;
+}
