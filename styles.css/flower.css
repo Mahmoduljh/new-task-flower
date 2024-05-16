@@ -261,3 +261,28 @@ header{
     outline: 1px solid crimson;
 }
 /* end insta-deal part */
+/* footer css part */
+.footer{
+    background: #111010;;
+    padding: 128px 0px;
+    text-align: center;
+}
+#primary-color{
+    color: #E55473;
+}
+#color-changed{
+    color: rgba(255, 255, 255, 0.90);
+}
+
+.footer-descriotion{
+    color: #fff;
+}
+
+#all-rights-reserved{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 32px;
+}
